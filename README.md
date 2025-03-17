@@ -24,8 +24,9 @@ Our data are sourced from:
 
 - Layoffs.fyi - Real-time layoff tracker
 - Wikipedia - Company informations, including background details and revenues
+- Stockanalysis.com - For revenue data of Post-IPO companies
 - Tech & business news - Articles from TechCrunch, Business Insider, GeekWire, and other industry sources
 - Social media discussions - Posts and discussions from Reddit’s r/jobs section
 
 ## Keywords
-`Layoffs`, `Tech Industry`, `Job Market`, `Visualization`, `Topic Modeling`, `Natural Language Processing`
+`Layoffs`, `Tech Industry`, `Job Market`, `Visualization`, `Topic Modeling`, `Natural Language Processing`, `Revenue`
